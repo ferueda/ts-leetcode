@@ -1,10 +1,11 @@
 function shuffle(nums: number[], n: number): number[] {
-  const odd = nums.slice(0, n);
-  const even = nums.slice(n);
+  const output = [];
 
-  return odd.reduce((acc: number[], _current, index) => {
-    return [...acc, odd[index], even[index]];
-  }, []);
+  for (let i = 0; i < n; i++) {
+    output.push(nums[i], nums[i + n]);
+  }
+
+  return output;
 }
 
 export default shuffle;
