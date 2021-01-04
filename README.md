@@ -8,4 +8,12 @@ Each directory includes a:
 - The Solution code to the problem
 - A test suite
 
-Each of these problems **have passed** their respective test cases on LeetCode.
+## Index
+
+### Easy
+
+- [1672 Richest Customer Wealth](https://github.com/ferueda/ts-leetcode/tree/main/problems/1672_richest_customer_wealth)
+
+### Medium
+
+### Hard
