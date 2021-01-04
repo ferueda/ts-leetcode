@@ -1,6 +1,6 @@
 # ts-leetcode
 
-A collection [LeetCode](https://leetcode.com/) problems I've solved in 
+A collection of [LeetCode](https://leetcode.com/) problems I've solved in 
 [TypeScript](https://www.typescriptlang.org/).
 
 Each directory includes a:
