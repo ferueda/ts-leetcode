@@ -14,6 +14,7 @@ Each directory includes a:
 
 - [1431 Kids With the Greatest Number of Candies](https://github.com/ferueda/ts-leetcode/tree/main/problems/1431_kids_with_the_greatest_number_of_candies)
 - [1470 Shuffle the Array](https://github.com/ferueda/ts-leetcode/tree/main/problems/1470_shuffle_the_array)
+- [1512 Number of Good Pairs](https://github.com/ferueda/ts-leetcode/tree/main/problems/1512_number_of_good_pairs)
 - [1672 Richest Customer Wealth](https://github.com/ferueda/ts-leetcode/tree/main/problems/1672_richest_customer_wealth)
 
 ### Medium
