@@ -20,3 +20,10 @@ Each directory includes a:
 
 - [1512 Number of Good Pairs](https://github.com/ferueda/ts-leetcode/tree/main/problems/1512_number_of_good_pairs)
 
+#### Linked Lists
+
+- [21 Number of Good Pairs](https://github.com/ferueda/ts-leetcode/tree/main/problems/21_merge_two_sorted_lists)
+
+#### Strings
+
+- [13 Roman to Integer](https://github.com/ferueda/ts-leetcode/tree/main/problems/13_roman_to_integer)
