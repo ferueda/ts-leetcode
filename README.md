@@ -16,7 +16,7 @@ Each directory includes a:
 - [1470 Shuffle the Array](https://github.com/ferueda/ts-leetcode/tree/main/problems/1470_shuffle_the_array)
 - [1672 Richest Customer Wealth](https://github.com/ferueda/ts-leetcode/tree/main/problems/1672_richest_customer_wealth)
 
-#### Hash Table
+#### Hash Tables
 
 - [1512 Number of Good Pairs](https://github.com/ferueda/ts-leetcode/tree/main/problems/1512_number_of_good_pairs)
 
