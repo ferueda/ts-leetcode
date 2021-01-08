@@ -27,3 +27,4 @@ Each directory includes a:
 #### Strings
 
 - [13 Roman to Integer](https://github.com/ferueda/ts-leetcode/tree/main/problems/13_roman_to_integer)
+- [28 Implement strStr](https://github.com/ferueda/ts-leetcode/tree/main/problems/28_implement_strStr)
