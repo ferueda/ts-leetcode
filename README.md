@@ -25,7 +25,7 @@ Each directory includes a:
 #### Linked Lists
 
 - [21 Number of Good Pairs](https://github.com/ferueda/ts-leetcode/tree/main/problems/21_merge_two_sorted_lists)
-- [83 Remove Duplicates from Sorted List](https://github.com/ferueda/ts-leetcode/tree/main/problems/83_remove_duplicates_from_sroted_list)
+- [83 Remove Duplicates from Sorted List](https://github.com/ferueda/ts-leetcode/tree/main/problems/83_remove_duplicates_from_sorted_list)
 
 #### Strings
 
